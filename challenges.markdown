@@ -73,7 +73,7 @@ on a regular basis.
 
 
 ## Accessibility to Services
-*Legal aid organizations and volunteers need help managing the influx of those who need their
+* Legal aid organizations and volunteers need help managing the influx of those who need their
 help. Their time needs to be maximized. Design a human-centered system that an organization
 could simply access for easily scheduling an appointment with specific members of 
 legal aid staff that would also send an email or text message remind to both parties beforehand. 
